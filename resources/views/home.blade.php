@@ -1,4 +1,4 @@
-<x-app-layout>
+<x-Layout.app>
     <x-home.hero></x-home.hero>
     <x-home.cvdownload></x-home.cvdownload>
     <x-home.about></x-home.about>
@@ -9,4 +9,4 @@
     <x-home.contact></x-home.contact>
 
 
-</x-app-layout>
+</x-Layout.app>
