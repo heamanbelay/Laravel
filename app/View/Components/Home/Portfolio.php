@@ -25,7 +25,7 @@ class Portfolio extends Component
                 'category' => ['Laravel', 'Tailwind.css', 'Alpinejs'],
                 'title' => 'Full Responsive portfolio  ',
                 'image' => url('/img/laravel.png'),
-                'github' => 'https://github.com'
+                'github' => 'https://github.com/heamanbelay/Laravel_portfolio'
             ],
             [
                 'category' => ['CSS' ,'HTML','JAVASCRIPT'],
