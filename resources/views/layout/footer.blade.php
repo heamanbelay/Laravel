@@ -1,8 +1,8 @@
-<footer class="bg-gray-300 dark:bg-slate-700 py-8 relative z-10">
+<!-- <footer class="bg-gray-300 dark:bg-slate-700 py-8 relative z-10">
 <div class="container">
     <div class="flex flex-wrap justify-between">
       <span class="inline-flex items-center text-xl">Follow Me on Social Media</span>
-      <!-- <x-social-icons class="mb-0"> </x-social-icons> -->
+      <x-social-icons class="mb-0"> </x-social-icons> 
     </div>
 </div>
 <div>
@@ -33,7 +33,7 @@
           </defs>
       </svg>
     </span>
-    
+
     <span class="absolute top-5 right-10 z-[-1]">
     <svg
       width="75"
@@ -64,4 +64,4 @@
       </svg>
     </span>
   </div>
-</footer>
+</footer> -->
