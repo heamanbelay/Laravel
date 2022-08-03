@@ -10,9 +10,9 @@
     </h2>
   </x-slot>
   
-<x-button-link href="https://drive.google.com/file/d/1Rilri9BRfrpFS39bHDtGCNQ59Gx_xPAW/view?ths=true" variant="dark" class="mr-3" target="_blank">
+<a href="https://drive.google.com/file/d/1Rilri9BRfrpFS39bHDtGCNQ59Gx_xPAW/view?ths=true" variant="dark" class="mr-3" target="_blank">
 Download My CV  
-    </x-button-link>
-    <x-button-link href="https://github.com/heamanbelay" variant="red" class="mr-3" target="_blank">
-Visit My GitHub    </x-button-link>
+</a>
+    <a href="https://github.com/heamanbelay" variant="red" class="mr-3" target="_blank">
+Visit My GitHub    </a>
 </x-cvandaboutsection>
