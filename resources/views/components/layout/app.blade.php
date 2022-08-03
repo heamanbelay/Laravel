@@ -19,7 +19,7 @@
  <x-layout.navbar>  </x-layout.navbar> 
             <!-- ====== Navbar Section End -->
 {{$slot}}
-    <x-layout.footer></x-layout.footer>
+    <x-footer/>
 </div>
         <script src="{{asset('/js/app.js')}}"></script>
         
