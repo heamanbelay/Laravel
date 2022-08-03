@@ -7,7 +7,7 @@
           <div class="w-full xl:w-1/2 px-3 sm:px-4">
             <div class="py-3 sm:py-4">
               <img
-                src="{{ url('/img/myyyy.jpg') }}"
+                src="{{ url('/img/entoto.jpg') }}"
                 alt=""
                 class="rounded-2xl w-full"
               />
