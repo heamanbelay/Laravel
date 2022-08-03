@@ -14,5 +14,5 @@
 Download My CV  
     </x-button-link>
     <x-button-link href="https://github.com/heamanbelay" variant="red" class="mr-3" target="_blank">
-Visit my GitHub    </x-button-link>
+Visit My GitHub    </x-button-link>
 </x-cvandaboutsection>

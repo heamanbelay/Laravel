@@ -21,9 +21,9 @@
           </p>
           <ul class="flex flex-wrap items-center">
             <li>
-              <x-components.button-link href="#portfolio" variant="primary" class="rounded-lg">
+              <x-button-link href="#portfolio" variant="primary" class="rounded-lg">
                 My Projects
-              </x-components.button-link>
+              </x-button-link>
             </li>
           </ul>
           <div class="clients pt-16">
