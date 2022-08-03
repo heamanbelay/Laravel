@@ -1,3 +1,5 @@
+@extends('layout.footer')
+
 <x-layout.app>
     <x-home.hero></x-home.hero>
     <x-home.cvdownload></x-home.cvdownload>

@@ -1,7 +1,6 @@
 
     <!-- Breathing in, I calm body and mind. Breathing out, I smile. - Thich Nhat Hanh -->
-
-<div class="relative pt-[60px] lg:pt-[80px] pb-[110px] bg-white dark:bg-slate-800">
+    <div class="relative pt-[60px] lg:pt-[80px] pb-[110px] bg-white dark:bg-slate-800">
   <div class="container">
     <div class="flex flex-wrap -mx-4">
       <div class="w-full lg:w-5/12 px-4">
