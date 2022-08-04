@@ -13,6 +13,6 @@
 <a href="https://drive.google.com/file/d/1Rilri9BRfrpFS39bHDtGCNQ59Gx_xPAW/view?ths=true" variant="dark" class="mr-3" target="_blank">
 Download My CV  
     </a>
-    <a href="https://github.com/heamanbelay" variant="red" class="mr-3" target="_blank">
-Visit My GitHub    </a>
+    <x-button-link href="https://github.com/heamanbelay" variant="red" class="mr-3" target="_blank">
+Visit My GitHub    </x-button-link>
 </x-cvandaboutsection>
