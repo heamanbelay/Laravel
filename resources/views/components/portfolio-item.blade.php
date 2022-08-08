@@ -5,7 +5,7 @@
   class="w-full md:w-1/2 xl:w-1/3 px-4"
 >
   <div class="relative mb-12">
-    <x-button-link href="{{$github}}" target="_blank">
+    <a href="{{$github}}" target="_blank">
       <div class="rounded-lg overflow-hidden ease-in duration-100 hover:scale-105">
         <img
           src="{{ $image }}"
@@ -13,7 +13,7 @@
           class="w-full h-[250px] object-cover"
         />
       </div>
-    </x-button-link>
+    </a>
     <div
       class="text-center bg-white dark:bg-slate-800 relative z-10 py-9 px-3 rounded-lg shadow-lg mx-7 -mt-4 h-[200px]">
       <span class="text-sm text-primary font-semibold block mb-2">
